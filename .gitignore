@@ -3,5 +3,4 @@ __pycache__/
 cache/
 papers/
 keys/
-data/papers.json
-data/last_attempt.json
+data/
