@@ -217,5 +217,5 @@ python exam_app.py
 ## License & Acknowledgments
 
 - **License**: Free | Open-Source
-- **Contest**: Built for the [Hacktoberfest 2026 Open-Source AI Challenge](https://dev.to) on DEV.
+- **Contest**: Built for the [Hacktoberfest 2026 Open-Source AI Challenge](https://dev.to/challenges/hacktoberfest-week4-2026-10-26) on DEV.
 - **Special Thanks**: The Google Gemma team for open-weight intelligence on the edge, and the PyMuPDF & Ollama communities for open-source developer tooling.
